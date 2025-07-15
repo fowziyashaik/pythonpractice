@@ -34,14 +34,6 @@ By mastering patterns, you reduce the need to reinvent solutions and can tackle 
 
 ## Patterns Covered
 
-### 1. Sliding Window  
-**Definition**: Use a dynamic subarray/window to optimize substring/subarray computations.  
-**Use Cases**: Longest/shortest subarray/substring, sum in window, consecutive conditions. :contentReference[oaicite:2]{index=2}  
-**Template**:
-```python
-i = 0
-for j in range(len(arr)):
-    # expand window with arr[j]
-    while window invalid:
-        # shrink window by moving i
-    # update result
+Triangles
+Numbers
+Alphabets
